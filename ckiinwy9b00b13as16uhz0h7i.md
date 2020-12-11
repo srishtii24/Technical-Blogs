@@ -278,7 +278,7 @@ Here, we load the image in which we want to detect the objects. Now that we have
 
 
 `net.setInput(blob)` passes the blob image into algorithm (network).
-The `outs` is the result of the detection. `outs` is an array that conains all the informations about objects detected, their position and the confidence about the detection.
+The `outs` is the result of the detection. `outs` is an array that contains all the informations about objects detected, their position and the confidence about the detection.
 
 
 ```
