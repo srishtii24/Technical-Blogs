@@ -63,11 +63,11 @@ pip install streamlit opencv-python Pillow numpy matplotlib
 - To run the algorithm we need three files:
 
 
-1. **Weight file**: It is the pre-trained model, the core of the algorithm to detect the objects. Download it from  [here (237 MB)](https://drive.google.com/file/d/1SUopNObO0qL7GQCHx-1XVVmqUb7YnxcY/view?usp=sharing).
+1. **Weight file**: It is the pre-trained model, the core of the algorithm to detect the objects. Download it from  [here (237 MB)](https://drive.google.com/file/d/1CW49XDO5Y0urNKOCvg2bDKaPXkHbzZlZ/view?usp=sharing).
 
-2. **Cfg file**: It is the configuration file which contains all the settings of the algorithm. Download it from  [here](https://drive.google.com/file/d/1UtwEg92Eh2TkjP_TcrP1z7g6Rc9Da7qn/view?usp=sharing).
+2. **Cfg file**: It is the configuration file which contains all the settings of the algorithm. Download it from  [here](https://drive.google.com/file/d/1Vcng6-DWIiTL6Kh8qzJTfXE-PjB1OsEH/view?usp=sharing).
 
-3. **Name files**: It contains the name of the objects that the algorithm can detect. Download it from  [here](https://drive.google.com/file/d/1nPbZNp6LUOnuB3pDX0ced69cprcO_Mh2/view?usp=sharing).
+3. **Name files**: It contains the name of the objects that the algorithm can detect. Download it from  [here](https://drive.google.com/file/d/1Vcng6-DWIiTL6Kh8qzJTfXE-PjB1OsEH/view?usp=sharing).
 
 
 - Download few images to test the code. You can download sample images from  [here](https://drive.google.com/drive/folders/11kFbik7dkZcgC2GnIKdK6Uv71_0HQCdt?usp=sharing).
