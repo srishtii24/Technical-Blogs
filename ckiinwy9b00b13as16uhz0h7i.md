@@ -67,10 +67,10 @@ pip install streamlit opencv-python Pillow numpy matplotlib
 
 2. **Cfg file**: It is the configuration file which contains all the settings of the algorithm. Download it from  [here](https://drive.google.com/file/d/1Vcng6-DWIiTL6Kh8qzJTfXE-PjB1OsEH/view?usp=sharing).
 
-3. **Name files**: It contains the name of the objects that the algorithm can detect. Download it from  [here](https://drive.google.com/file/d/1Vcng6-DWIiTL6Kh8qzJTfXE-PjB1OsEH/view?usp=sharing).
+3. **Name files**: It contains the name of the objects that the algorithm can detect. Download it from  [here](https://drive.google.com/file/d/1N4On7a78LuWoZ5Rqxr8uZMzdtYP7APBa/view?usp=sharing).
 
 
-- Download few images to test the code. You can download sample images from  [here](https://drive.google.com/drive/folders/11kFbik7dkZcgC2GnIKdK6Uv71_0HQCdt?usp=sharing).
+- Download few images to test the code. You can download sample images from  [here](https://drive.google.com/drive/folders/1WBu0uROLkROYlNk4nLAk19dlqs_qtpfL?usp=sharing).
 
 ### Structure and workflow of the app
 The app highlights two main functions- 
